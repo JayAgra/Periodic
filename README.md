@@ -5,7 +5,7 @@ This fork includes:
 - American English Translation
 
 Note:
-Future updates includes finishing element descriptions.
+Future updates include finishing element descriptions.
 
 ## Features
 
