@@ -1,5 +1,5 @@
 # Periodic
-<img src="https://github.com/CFWS/Periodic/workflows/Periodic/badge.svg"/> <img src="https://img.shields.io/badge/License-ISC-blue.svg)"/>
+<img src="https://github.com/CFWS/Periodic/workflows/Periodic/badge.svg"/> <img src="https://img.shields.io/badge/License-MIT-blue.svg"/><br>
 Periodic is a minimalistic Periodic Table of Elements, coded in HTML5, CSS3 and Javascript.
 This fork includes:
 - A more compatable version that can be run locally
